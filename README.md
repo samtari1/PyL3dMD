@@ -7,6 +7,6 @@ Citation:
 Panwar, P., Yang, Q., & Martini, A. (2023). PyL3dMD: Python LAMMPS 3D molecular descriptors package. Journal of Cheminformatics, 15(1), 1-13.
 
 
-
+![Graphical abstract5]([https://user-images.githubusercontent.com/43221759/218271367-85d6fffb-56eb-4106-b5ff-861a3140425d.png](https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13321-023-00737-5/MediaObjects/13321_2023_737_Figa_HTML.png?as=webp)https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13321-023-00737-5/MediaObjects/13321_2023_737_Figa_HTML.png?as=webp)
 ![Graphical abstract5](https://user-images.githubusercontent.com/43221759/218271367-85d6fffb-56eb-4106-b5ff-861a3140425d.png)
 
